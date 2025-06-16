@@ -4187,9 +4187,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?252525253Bpreview=
 ?=ref
 ?Author=
-?CMP
 ?EGOTECpage
-?ExternalDataReference
 ?LID=
 ?RefID=
 ?SESSION
@@ -4535,7 +4533,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?referralCode=*
 ?referrer=
 ?regcode*
-?region=
 ?rel
 ?reply=
 ?replytocom
@@ -6207,13 +6204,11 @@ _singlePage.html
 _smt=
 _sort
 _static
-_td
 _td_api
 _tdhl_api
 _tdpp_api
 _template
 _themes
-_uac/adpage.html
 _user/api
 _v1st
 _vercel/insights/view
@@ -6315,6 +6310,8 @@ about/careers/applications/jobs/results?page=
 about/faq/station-finder/?state-text=
 about/faq/station-finder/?zip-text=
 about/images
+about/leadership-university-administration/board-of-trustees/newsletter
+about/news-publications/news/search
 about/team_member
 about?
 aboutus
@@ -6580,6 +6577,8 @@ admin/*
 administration
 administrator
 adminusers
+admissions/undergraduate-admissions
+admissions/undergraduate-admissions.html
 adobe/dynamicmedia/deliver/
 adredir?
 adresa-segmentator
@@ -6606,7 +6605,6 @@ adult
 adv/news/vystavka-prodazha-na-poiske-poyavilas-tovarnaya-galereya
 advanced$
 advanced-search
-advanced-search/x
 advanced-trade/spot
 advanced/adv-suggestions
 advancedGiftRegistrySearchView
@@ -6756,6 +6754,7 @@ allset
 als/shakespeare_pilot
 alumni
 alumni-subscriptions
+alumni/the-hub
 am-cookie-helper
 am-sonntag/vorproduktion
 amazon-chat
@@ -6996,9 +6995,7 @@ arama
 archive
 archive$
 archive/api/image.jpg
-archive/article
 archive/graphs.php
-archive/page
 archive/project/sovsport$
 archived
 archived$
@@ -7021,11 +7018,7 @@ article/HUG
 article/PR-CO
 article/api
 article/beta
-article/category
 article/preview
-article/this-article-has-been-deleted
-article/this-article-has-been-removed
-article/this-article-is-no-longer-available
 article_count
 article_email
 articlecomment/
@@ -8588,6 +8581,7 @@ build
 build.xml
 builders
 bundle-next
+bursar
 bus/api
 bus/orders
 buscar
@@ -12442,6 +12436,7 @@ de-de/release-notes/$
 de-de/reports/$
 de-de/reports/2024-forrester-tei/$
 de-de/reports/5-agencies-that-changed-the-way-they-design/$
+de-de/reports/ai-2025/$
 de-de/reports/ai-design-trends-2024/$
 de-de/reports/bringing-non-designers-into-design-process/$
 de-de/reports/building-collaborative-design-process/$
@@ -12851,6 +12846,12 @@ demo/$
 demonstration
 demos/dev-mode-design/$
 demos/dev-mode-developers/$
+dental/dh
+dental/endo
+dental/histo
+dental/intranet
+dental/perio
+dental/students
 denver
 depth--
 design
@@ -13350,7 +13351,6 @@ edit/review
 edit/success
 editing
 editing/EditHomeFacts.htm
-edition/null
 editionssi
 editor
 editor.jsp
@@ -13426,7 +13426,6 @@ eliminar-busqueda
 eliminar-favoritos
 elite?
 elp
-em
 email
 email$
 email-blog
@@ -14144,6 +14143,7 @@ es-es/profiles/*.svg
 es-es/prototipos/$
 es-es/release-notes/$
 es-es/reports/$
+es-es/reports/ai-2025/$
 es-es/reports/ai-design-trends-2024/$
 es-es/reports/design-systems-102/$
 es-es/reports/designer-developer-trends/$
@@ -14268,6 +14268,7 @@ es-la/professional/$
 es-la/prototipos/$
 es-la/release-notes/$
 es-la/reports/$
+es-la/reports/ai-2025/$
 es-la/reports/ai-design-trends-2024/$
 es-la/reports/design-systems-102/$
 es-la/reports/designer-developer-trends/$
@@ -14804,6 +14805,7 @@ faq
 faq_search.php
 fashion/lookbook/38917
 fashion/search/models
+fast-facts
 fast-five
 fast-furious
 fastajax
@@ -14877,8 +14879,6 @@ feedback-service
 feedback/
 feedback/user_study
 feeds
-feeds.thetimes.com/puzzles
-feeds.thetimes.com/timescrossword
 feeds/
 feeds/*
 feeds/TechNet/fr-fr/screenshot/screenshot%20surface.jpg
@@ -15007,7 +15007,6 @@ files/*.jpg
 files/*.png
 files/advertising
 files/developer
-files/live/sites/isoorg/files/_noindex
 files/resources
 fileview
 filing/free-file-fillable-forms/free-file-fillable-forms-support
@@ -16844,14 +16843,12 @@ forums/create/question
 forums/login
 forums/preferences
 forums/profile
-forward
 foryou
 fos/icn/
 fotos/es/*+
 foundation/contact
 fourinthemorning
 foxtrotcallback=
-fp_ms
 fp_ms/_rcv/remote?
 fpc/
 fpjs
@@ -17120,6 +17117,7 @@ fr-fr/release-notes/$
 fr-fr/reports/$
 fr-fr/reports/2024-forrester-tei/$
 fr-fr/reports/5-agencies-that-changed-the-way-they-design/$
+fr-fr/reports/ai-2025/$
 fr-fr/reports/ai-design-trends-2024/$
 fr-fr/reports/bringing-non-designers-into-design-process/$
 fr-fr/reports/building-collaborative-design-process/$
@@ -17262,7 +17260,6 @@ fr/Tr/
 fr/Tracker?data=*
 fr/about
 fr/admin
-fr/advanced-search/x
 fr/agence-revenu/test-web-services
 fr/android/collections
 fr/android/search
@@ -17409,7 +17406,6 @@ fr/search*ship_to=
 fr/search/
 fr/search/autocomplete
 fr/search/default.mi
-fr/search/x
 fr/security
 fr/security/
 fr/service-canada
@@ -18134,7 +18130,6 @@ home
 home$
 home-equity
 home-improvement-dueling-digs
-home.isoDocumentsDownload.do?
 home/dashboard
 home/global_feed
 home/index_rss
@@ -18289,7 +18284,6 @@ http://smithsonianmag.com/robots.txt
 http://static.wixstatic.com/robots.txt
 http://techradar.com/robots.txt
 http://teenage.engineering/robots.txt
-http://theverge.com/robots.txt
 http://threads.net/robots.txt
 http://tracks.arte.tv/robots.txt
 http://weebly.com/robots.txt
@@ -18817,7 +18811,6 @@ infinite-scroll-recipe
 infinite-scroll-review
 info
 info/customerror.htm*
-info/p.gif
 info/smart404.asp*
 info/tech-feedback
 infografik
@@ -18854,7 +18847,6 @@ intelligencer/amp
 intent
 interactive*http://fda.gov/robots.txt
 interactive/reading-preference
-interactives
 intercept
 internal
 internal-api
@@ -19422,6 +19414,7 @@ ja-jp/prototyping/$
 ja-jp/release-notes/$
 ja-jp/reports/$
 ja-jp/reports/2024-forrester-tei/$
+ja-jp/reports/ai-2025/$
 ja-jp/reports/ai-design-trends-2024/$
 ja-jp/reports/building-a-design-driven-culture/$
 ja-jp/reports/building-collaborative-design-process/$
@@ -19931,6 +19924,7 @@ ko-kr/professional/$
 ko-kr/prototyping/$
 ko-kr/release-notes/$
 ko-kr/reports/$
+ko-kr/reports/ai-2025/$
 ko-kr/reports/ai-design-trends-2024/$
 ko-kr/reports/building-a-design-driven-culture/$
 ko-kr/reports/design-growth-story-apac-report/$
@@ -20430,7 +20424,6 @@ login.php*&next=
 login.php/?next=
 login.php?next=
 login.php?return_to=
-login.thetimes.com/user/logout
 login/
 login/$
 login/*&next=
@@ -20713,6 +20706,7 @@ mapslt?
 mapspro
 mapstt?
 mapview
+mar-optout
 market/
 market/confederate_flag
 market/dixie_flag
@@ -20958,7 +20952,6 @@ mld?
 mlt
 mm
 mm/
-mm_track
 mmend.htm$
 mms
 mn
@@ -21219,7 +21212,6 @@ mx/your
 my
 my-account
 my-agent/eligibility
-my-articles
 my-eurlex
 my-library
 my-library
@@ -21464,7 +21456,6 @@ news/go
 news/image
 news/images
 news/intelligencer/16951
-news/m
 news/page
 news/politics/0,1283,48946,00.html
 news/politics/0,1283,49132,00.html
@@ -21563,6 +21554,7 @@ nl-nl/product-managers/$
 nl-nl/productontwikkeling/$
 nl-nl/professional/$
 nl-nl/prototyping/$
+nl-nl/reports/ai-2025/$
 nl-nl/search
 nl-nl/searchresults
 nl-nl/security/$
@@ -21858,6 +21850,7 @@ nwshp$
 nxs-video-player
 nymag/columns/intelligencer/features/16951
 nymag/letters/14872
+nyucard/campuscash/admin
 nz
 nz$
 nz*/listing/*/favoriters
@@ -22458,9 +22451,6 @@ password
 password-changed-email
 password/reset
 password_expired
-past-six-days
-past-six-days$
-past-six-days/$
 patent
 patent-search/frontend
 patents
@@ -22691,6 +22681,7 @@ pl-pl/professional/$
 pl-pl/projektowanie-stron-internetowych/$
 pl-pl/prototypowanie/$
 pl-pl/przekazywanie-projektow/$
+pl-pl/reports/ai-2025/$
 pl-pl/rozwoj-produktu/$
 pl-pl/search
 pl-pl/search/
@@ -22819,7 +22810,6 @@ play
 play/store/web
 play/surveys/serp
 player
-player/brightcove
 player/metadata/video
 playerColor=
 playing-house
@@ -23526,6 +23516,7 @@ pt-br/profiles/*.svg
 pt-br/prototipos/$
 pt-br/release-notes/$
 pt-br/reports/$
+pt-br/reports/ai-2025/$
 pt-br/reports/ai-design-trends-2024/$
 pt-br/reports/design-systems-102/$
 pt-br/reports/designer-developer-trends/$
@@ -23664,6 +23655,7 @@ public
 public-api
 public-data-sets/applicants/
 public-data-sets/terms/
+public.affairs/gata
 public.api
 public/*.css$
 public/*.css?
@@ -24331,6 +24323,8 @@ reservations/*/notifyme
 reset
 reset-password
 reset?
+residential.education/archive
+residential.education/templates
 resource
 resource-library/$
 resource-library/*?
@@ -24682,7 +24676,6 @@ ru-ru/lp
 ru-ru/search
 ru-ru/searchresults
 ru/
-ru/advanced-search/x
 ru/android/collections
 ru/android/search
 ru/api.php?
@@ -24726,7 +24719,6 @@ ru/search
 ru/search/
 ru/search/autocomplete
 ru/search/default.mi
-ru/search/x
 ru/srr
 ru/tag/*/shoutbox
 ru/tag/*/shoutbox?
@@ -25116,7 +25108,6 @@ search/audio
 search/audio?k=
 search/autocomplete
 search/autosuggest
-search/browse-by-day
 search/browse/HDPTree,*Border.*debug*DebugBar.*InspectorButton.link.sdirect
 search/buyeroffers/*.html
 search/buyeroffers/*/*.html
@@ -25151,7 +25142,6 @@ search/title/?title_type=feature,tv_movie,tv_miniseries,documentary,short,video,
 search/user?q=
 search/users
 search/video?
-search/x
 search=*
 search?
 search?
@@ -25168,7 +25158,6 @@ searchProvider*feature_six_browse-bin
 searchTerm=
 search\?
 search_history
-search_ms
 search_results
 search_results/gigs
 search_rss$
@@ -26064,7 +26053,6 @@ sports/hockey/whatson
 sports/includes
 sports/nfl/includes
 sports/whatson
-sports_fp_ms
 spot
 spreadsheet
 spresults
@@ -26480,6 +26468,7 @@ surveys-360
 surveys/
 suspended_tickets
 suspension-appeal
+sustainability
 sutils
 sv-SE/android/collections
 sv-SE/android/search
@@ -26615,7 +26604,6 @@ tag/*+http://dinotim.com/robots.txt
 tag/*/shoutbox
 tag/*/shoutbox?
 tag/credible
-tag/expire-images
 tag/interaction-card
 tag/js
 tag/search/db-home
@@ -26680,7 +26668,6 @@ tblang=
 tbproxy
 tdid=*
 tdir/p/kids-back-to-school
-tdv2_fp
 te/forums
 te/kb/*/discuss
 te/search
@@ -27117,7 +27104,7 @@ test.html
 test_community
 testfl
 testgpr
-testhttp://moskva.stroi-podryad.ru/robots.txt
+testhttp://monroewvhistory.org/robots.txt
 testing
 testpage-forhomepage
 tests/*
@@ -27407,7 +27394,6 @@ topic/*seo9*
 topic/*{*
 topic/article/
 topic/articlecollection
-topic/bbc
 topic/collection
 topic/electrode/api/logger
 topic/electrode/api/wpa
@@ -27499,7 +27485,6 @@ tracky
 tractive
 trade
 tradeoffer
-traffic
 training-plans
 training/
 training/ajax
@@ -27633,7 +27618,6 @@ try-search-term
 try?
 trylater
 tsa
-tto
 tucritica
 tune*retpath=
 turbo
@@ -28574,6 +28558,8 @@ w/api.php?action=mobileview&
 w/load.php?
 w/users/user_hints
 w3
+wagner/newsite
+wagner/newsiteTEST
 wai-conformance-model-test
 walking-tall
 walkscore
@@ -28724,10 +28710,7 @@ website/templates/flash
 websiteoptimizer
 websrc
 webstats
-webstore/ShoppingBasket
-webstore/checkout
 webstore/search
-webstore/shoppingbasket
 webstore/static/*/wall/js
 webtools
 webview
@@ -29746,7 +29729,7 @@ your
 your-account
 your-shop
 youreurope/businessACC
-youreurope/businessDEV/http://europarl.europa.eu/robots.txt
+youreurope/businessDEV/http://eur-lex.europa.eu/robots.txt
 youreurope/citizensACC
 youreurope/citizensDEV
 yours
