@@ -559,6 +559,7 @@ erpnext/patches/v15_0/migrate_to_utm_analytics.py
 erpnext/patches/v15_0/rename_pos_closing_entry_fields.py
 erpnext/patches/v15_0/update_cc_in_process_statement_of_accounts.py
 erpnext/patches/v15_0/migrate_old_item_wise_tax_detail_data_format.py
+erpnext/patches/v15_0/set_status_cancelled_on_cancelled_pos_opening_entry_and_pos_closing_entry.py
 erpnext/patches/v15_0/recalculate_amount_difference_field.py
 erpnext/patches/v15_0/fix_debit_credit_in_transaction_currency.py
 erpnext/patches/v15_0/create_advance_payment_status.py
@@ -1222,7 +1223,6 @@ erpnext/public/js/bom_configurator/bom_configurator.bundle.js
 erpnext/public/js/stock_grid_report.js
 erpnext/public/js/call_popup/call_popup.js
 erpnext/public/js/projects/timer.js
-erpnext/public/js/website_utils.js
 erpnext/public/js/controllers/accounts.js
 erpnext/public/js/controllers/buying.js
 erpnext/public/js/controllers/stock_controller.js
@@ -1252,7 +1252,6 @@ erpnext/public/js/utils/sales_common.js
 erpnext/public/js/utils/party.js
 erpnext/public/js/utils/customer_quick_entry.js
 erpnext/public/js/erpnext.bundle.js
-erpnext/public/js/erpnext-web.bundle.js
 erpnext/public/js/item-dashboard.bundle.js
 erpnext/public/js/communication.js
 erpnext/public/js/help_links.js
@@ -3905,7 +3904,6 @@ erpnext/templates/pages/rfq.html
 erpnext/templates/pages/projects.js
 erpnext/templates/pages/search_help.py
 erpnext/templates/includes/address_row.html
-erpnext/templates/includes/footer/footer_extension.html
 erpnext/templates/includes/footer/footer_powered.html
 erpnext/templates/includes/products_as_grid.html
 erpnext/templates/includes/order/order_taxes.html
@@ -4131,13 +4129,6 @@ erpnext/setup/doctype/authorization_control/authorization_control.py
 erpnext/setup/doctype/quotation_lost_reason_detail/__init__.py
 erpnext/setup/doctype/quotation_lost_reason_detail/quotation_lost_reason_detail.json
 erpnext/setup/doctype/quotation_lost_reason_detail/quotation_lost_reason_detail.py
-erpnext/setup/doctype/print_heading/README.md
-erpnext/setup/doctype/print_heading/__init__.py
-erpnext/setup/doctype/print_heading/print_heading.json
-erpnext/setup/doctype/print_heading/print_heading.py
-erpnext/setup/doctype/print_heading/test_records.json
-erpnext/setup/doctype/print_heading/test_print_heading.py
-erpnext/setup/doctype/print_heading/print_heading.js
 erpnext/setup/doctype/holiday_list/test_holiday_list.py
 erpnext/setup/doctype/holiday_list/holiday_list.py
 erpnext/setup/doctype/holiday_list/README.md

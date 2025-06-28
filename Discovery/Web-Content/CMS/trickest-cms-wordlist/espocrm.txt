@@ -2758,6 +2758,7 @@ application/Espo/Core/Formula/Functions/RecordGroup/AttributeType.php
 application/Espo/Core/Formula/Functions/RecordGroup/UpdateRelationColumnType.php
 application/Espo/Core/Formula/Functions/RecordGroup/DeleteType.php
 application/Espo/Core/Formula/Functions/RecordGroup/RelationColumnType.php
+application/Espo/Core/Formula/Functions/RecordGroup/Util/FindQueryUtil.php
 application/Espo/Core/Formula/Functions/RecordGroup/FindManyType.php
 application/Espo/Core/Formula/Functions/RecordGroup/UpdateType.php
 application/Espo/Core/Formula/Functions/RecordGroup/CreateType.php
@@ -7856,6 +7857,7 @@ application/Espo/Tools/CategoryTree/RebuildPaths.php
 application/Espo/Tools/CategoryTree/MoveService.php
 application/Espo/Tools/CategoryTree/Move/MoveParams.php
 application/Espo/Tools/CategoryTree/Move/LoopReferenceChecker.php
+application/Espo/Tools/CategoryTree/Record/ReadTreeParams.php
 application/Espo/Tools/UserSecurity/ApiService.php
 application/Espo/Tools/UserSecurity/TwoFactor/SmsService.php
 application/Espo/Tools/UserSecurity/TwoFactor/EmailService.php
